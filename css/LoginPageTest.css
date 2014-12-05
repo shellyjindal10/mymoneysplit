@@ -1,0 +1,174 @@
+body{
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#loginPageBackground{
+	line-height: 1;
+					background-repeat: no-repeat;
+					background-size: 100%;
+}
+#login_center_container{
+	border-style: solid;
+								border-width: 1px;
+}
+
+#main_login_container{
+					margin-left: 84%;
+					margin-top: 12%;
+					width: 24%;
+					height: 568px;
+}
+
+#main_login_container{
+	background: #E0E0E0;
+	margin-top:-25%; 
+}
+#login_second_container{
+								
+}
+#password-enter-login{
+	margin-top: -7%;
+width: 87%;
+}
+
+#facebook_login_main_container{
+								border-style: solid;
+								border-width: 1px;
+								margin-left: 10%;
+								width: 79%;
+								height: 38px;
+								background-color:#0000CD;
+
+}
+
+#facebook_image_container{
+								margin-top: 2%;
+								margin-left: 3%;
+								width: 91%;
+								height: 24px;
+}
+#facebook_icon{
+								width: 10%;
+								height: 24px;
+}
+#sign_in_Facebook_title{
+								color:#FFFFFF;
+								margin-top: -9%;
+								margin-left: 15%;
+}
+#or{
+	margin-left: 4%;
+	color: #B8860B;
+}
+
+#login_form{
+				margin-left: 9%;
+				margin-top: 7%
+}
+#email_address{
+				width: 86%;
+				height: 37px;
+}
+
+#password{
+				width: 86%;
+				height: 26px;
+}
+
+#remember_me{
+	margin-left: 8%;
+}
+
+#remember_me_title{
+	margin-top: -6.5%;
+margin-left: -63%;
+					font-size: 85%;
+					color: black;
+}
+
+#forget_password{
+					margin-left: 46%;
+}
+
+#forget_password_title{
+						margin-top: -20%;
+margin-left: 35%;
+					font-size: 94%;
+}
+#sign_in_main_container{
+								border-style: solid;
+border-width: 1px;
+margin-left: -10%;
+width: 70%;
+height: 38px;
+background-color: #008000;
+border-radius: 5px;
+}
+
+#sign_in_title{
+								margin-left: 36%;
+								color:#FFFFFF;
+								margin-top:4%;
+}
+
+#sign_up_main_container{
+								margin-top: 3%;
+								margin-left: 10%;
+								width: 80%;
+								height: 25px;
+}
+
+#no_account_title{
+								margin-top: -1%;
+								margin-left: -51%;
+								color: black;
+}
+
+#sign_up_title{
+								margin-top: -12%;
+margin-left: 59%;
+}
+#login_first_container{
+								height: 187px;
+}
+
+#mapholder{
+	height: 170px;
+}
+
+#facebook_main_div{
+								margin-left: 40%;
+								width: 19%;
+								margin-top: -4%;
+}
+.fb-button{
+	margin-bottom: 21px;
+width: 173%;
+height: 33px;
+margin-left: -34%;
+}
+
+.facebook-button{
+								color: #ffffff;
+								
+								background-color: #3b5998;
+								border-color: rgba(0,0,0,0.2);
+								border-radius: 5px;
+}
+.facebook-button:hover{
+								color: #ffffff;
+								background-color: #2d4373;
+
+
+}
+
+#facebook-icon{
+
+}
+
+.login-checkBox{
+	margin-left: -94%;
+}
+
+

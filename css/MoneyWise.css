@@ -1,0 +1,302 @@
+#buttonsForSplitsWise{
+	margin-left:40%;
+	width:12%;
+	margin-top:7%;
+}
+#settleUpBTN{
+	background-color:#00FFFF;
+
+}
+#profile_picture{
+					margin-left: 60%;
+					margin-top: -4.8%;
+					width: 1.8%;
+					height: 35px;
+}
+#top_bar{
+								border-style: solid;
+								border-width: 1px;
+								background-color: rgb(170, 0, 0);
+								height:44px;
+}
+#money_icon {
+								vertical-align: middle;
+								height: 51px;
+								margin-left: 25%;
+}
+#money_split_title{
+								margin-left: 30%;
+								margin-top: -2.5%;
+								font-weight: 900;
+								color: white;
+								font-size: 211%;
+}
+#dropdown_main_div{
+								margin-top: -3.5%;
+								margin-left: 62.5%;
+}
+.dropdown_title{
+	color: #FFFFFF;
+}
+#myAddBillModel{
+				margin-left: 35%;
+				margin-top: 16%;	
+				width: 24%;
+				height: 313px;
+}
+
+#mySettleUPModel{
+				margin-left: 35%;
+				margin-top: 16%;	
+				width: 24%;
+				height: 313px;
+}
+.addBillHeaderTitle{
+					height: auto;
+					background-color:#1E90FF;
+					margin-top:-3%;
+					padding-top:3px;
+
+}
+.headerMainHeader{
+	margin-left:3%;
+	margin-top: 3%;
+	color:#FFFFFF;
+	font:1.5em serif;
+}
+.addBillHeaderBody{
+					height:auto;
+					margin-top: 3%;
+					margin-left: 3%;
+}
+
+#lineAfterHeader{
+	margin-top:3%;
+	display:none;
+}
+#mytextInputType{
+	width: 300px;
+	border: none;
+    background: transparent;
+}
+#Model-Body-hidden{
+	display:none;
+}
+.bill-icon{
+			
+			margin-top: -5%;
+			height: 100px;
+			width: 80px;
+}
+.bill-description{
+					
+					margin-left: 141%;
+					margin-top: -120%;
+					height: 24px;
+					width: 293px;
+}
+#billDescriptiontextInputType{
+								border: none;
+							    background: transparent;
+							    height: 24px;
+								width: 300px;
+}
+#broken_bill_description_line{
+	margin-top:-1%;
+	border-top: dotted 1px;
+	color:#808080;
+}
+#billAmountTextInputType{
+							border: none;
+							    background: transparent;
+							    height: 24px;
+								width: 300px;
+						
+}
+.bill-amount{
+				margin-left: 140%;
+				margin-top: 4%;
+}
+#broken_bill_amount_line{
+	margin-top:-3%;
+	border-top: dotted 1px;
+	color:#808080;
+	width:300px;
+
+}
+.bill_paid_By{
+				margin-left: 139%;
+				width: 300px;
+				height:auto;
+				margin-top: -8%;
+}
+#bill-paidBy-you{
+					background-color: #D3D3D3;
+					border-radius: 500px;
+					text-align: right;
+					width: 200px;
+					height: auto;
+					font-size: 13px;
+					padding: 3px;
+					color: #fff;
+					line-height: 9px;
+					border-top: dotted 2px;
+				    border-color:#808080;
+				    
+}
+#bill-paidBy-splitsEqually{
+							background-color: #D3D3D3;
+							border-radius: 200px;
+							text-align: center;
+							font-size: 13px;
+							line-height: 21px;
+							padding:3px;
+							border-top: dotted 2px;
+				    		border-color:#808080;
+
+}
+.bill_splits_amounts{
+					margin-left: 211%;
+}
+.NumberOfPoeplePaidMoney{
+	border-style: solid;
+			border-width: 1px;
+}
+.invalid-data { border: 1px solid red; }
+
+#ExpenseeAdded{
+				margin-left: 89%;
+				margin-top: -5%;
+				height: 100px;
+				width: 94px;
+				background-color:#484848 ;
+				display:none;
+}
+#expenseAddedFonting{
+	font-size: 120%;
+	color:#FFFFFF;
+}
+#expenseAddedImage{
+				margin-left: 15%;
+				width: 65%;
+				height: 48px;
+}
+#expenseAddedImge{
+				display:none;
+}
+#dashboard_main_div{
+					border-style: solid;
+					border-width: 1px;
+					border-color:#B0B0B0;
+					margin-left: 32%;
+					width: 26.6%;
+					height: 700px;
+}
+#searchDivFRomDatabase{
+					border-style: solid;
+					border-width: 1px;
+					border-color:#B0B0B0;
+					margin-left: 21%;
+					width: 67%;
+					height: auto;
+					display:none;
+}
+#youOwe{
+					
+					width: 48%;
+					height:auto;
+}
+#youAreOwed{
+					
+					margin-left: 49%;
+					margin-top: -15.5%;
+}
+#dashboardTitle{
+					font-size: 2.8em;
+					margin-left: 36%;
+					margin-top: 1%;
+}
+#youOwedTitle{
+					color:#778899;
+					font-weight: bold;
+					margin-left: 33%;
+					margin-top: 4%;
+}
+#youAreOwedTitle{
+					color:#778899;
+					font-weight: bold;
+					margin-left: 25%;
+					margin-top: -12%;
+}
+.vertical-line{
+				  	width: 1px; /* Line width */
+				  	background-color: black; /* Line color */
+				  	height: 100%; /* Override in-line if you want specific height. */
+				  	float: left; 
+				  	margin-left: 49%;
+					margin-top: -3%;
+}
+#youAreOwedResult{
+					margin-left: 18%;
+}
+#youOwedResult{
+					margin-left: 17%;
+}
+#paymentTitle{
+					margin-left: 27%;
+					color:#696969;
+}
+#cashButtonDiv{
+					border-style: solid;
+					border-width: 1px;
+					border-color:#B0B0B0;
+					margin-top: -3%;
+					margin-left: 19%;
+					width: 256px;
+					height: 30px;
+}
+#payByPayPallButtonDiv{
+					border-style: solid;
+					border-width: 1px;
+					border-color:#B0B0B0;
+					margin-top: 2%;
+					margin-left: 19%;
+					width: 256px;
+					height: 30px;
+}
+#cashButton{
+         			width: 100%;
+					height: 100%;
+					background-color: #1E90FF;
+					color:#FFFFFF;
+}
+#PayPalButton{
+					width: 100%;
+					height: 100%;
+					background-color:#FF4500;
+					color:#FFFFFF;
+}
+.toggler { width: 570px; height: 200px; position: relative; }
+#button { padding: .5em 1em; text-decoration: none; }
+#effect { width: 240px; height: 135px; padding: 0.4em; position: relative; background: #fff; }
+#effect h3 { margin: 0; padding: 0.4em; text-align: center; }
+
+.bg-user {
+  background: #fcf8e3;	
+}
+ul li a.bg-user:hover {
+  background-color: #aa0000;
+}
+#signout_theme{
+	color: #66757f;
+	margin-top: 6%;
+	margin-left: 20%;
+	text-shadow: 1px 1px 1px #EEE0E0;
+font-size: 1.0em;
+}
+
+#signout_theme:hover{
+	color: #fff;
+}
+
+

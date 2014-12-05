@@ -1,0 +1,104 @@
+Things to be done
+
+
+6: Dashboard new 
+7: Error check in the add bill part 
+8: Home page needs to be changed .
+9: name in the dashborad .
+10: 
+
+
+Done 
+
+	1: make the database for the user varification 
+	2: password stored in the database using sha-512
+	3: is the passsowd and confirmpassowrd are same or not , if not then throw a message 
+	4: add the red color on the signout hover 
+	3: when the user is not there in databse then pop up some message
+	2: a link should gets expires after its clicked once 
+	1: work on Forget your password 
+    - backend
+    - frontend 
+    - mail dropping 
+    - reset passowrd link 
+    4: rando number should be really random
+    5: Mail send 
+
+
+
+9342569210 --- balaji 
+
+Employement agency 
+
+1: 555 Clyde Ave
+Ste 100
+Mountain View, CA 94043
+Get Directions
+Phone number (650) 314-6400
+Message the business
+Business websitemindsource.com
+
+2: 
+
+
+Idea : - Living with your mates?
+Whether it's bills, takeaway or just daily expenses, WeSplit.it deals with all the hassles & calculations
+while you sit back and relax!
+
+
+PayPal will make the payment faster, safer way to send money, make an online payment, receive money or set up a merchant account.
+
+Inside LOginPage.js LoginPage.js:3
+event is :[object Object] contact_me.js:8
+form is :[object Object] contact_me.js:9
+key is :originalEvent contact_me.js:11
+value is :[object Event] contact_me.js:12
+key is :type contact_me.js:11
+value is :submit contact_me.js:12
+key is :isDefaultPrevented contact_me.js:11
+value is :function bb(){return!1} contact_me.js:12
+key is :timeStamp contact_me.js:11
+value is :1417729790582 contact_me.js:12
+key is :jQuery111109476122052874416 contact_me.js:11
+value is :true contact_me.js:12
+key is :which contact_me.js:11
+value is :undefined contact_me.js:12
+key is :view contact_me.js:11
+value is :undefined contact_me.js:12
+key is :target contact_me.js:11
+value is :[object HTMLFormElement] contact_me.js:12
+key is :shiftKey contact_me.js:11
+value is :undefined contact_me.js:12
+key is :relatedTarget contact_me.js:11
+value is :undefined contact_me.js:12
+key is :metaKey contact_me.js:11
+value is :false contact_me.js:12
+key is :eventPhase contact_me.js:11
+value is :2 contact_me.js:12
+key is :currentTarget contact_me.js:11
+value is :[object HTMLFormElement] contact_me.js:12
+key is :ctrlKey contact_me.js:11
+value is :undefined contact_me.js:12
+key is :cancelable contact_me.js:11
+value is :true contact_me.js:12
+key is :bubbles contact_me.js:11
+value is :true contact_me.js:12
+key is :altKey contact_me.js:11
+value is :undefined contact_me.js:12
+key is :delegateTarget contact_me.js:11
+value is :[object HTMLFormElement] contact_me.js:12
+key is :handleObj contact_me.js:11
+value is :[object Object] contact_me.js:12
+key is :data contact_me.js:11
+value is :null contact_me.js:12
+key is :isPropagationStopped contact_me.js:11
+value is :function bb(){return!1} contact_me.js:12
+key is :isImmediatePropagationStopped contact_me.js:11
+value is :function bb(){return!1} contact_me.js:12
+key is :preventDefault contact_me.js:11
+value is :function (){var a=this.originalEvent;this.isDefaultPrevented=ab,a&&(a.preventDefault?a.preventDefault():a.returnValue=!1)} contact_me.js:12
+key is :stopPropagation contact_me.js:11
+value is :function (){var a=this.originalEvent;this.isPropagationStopped=ab,a&&(a.stopPropagation&&a.stopPropagation(),a.cancelBubble=!0)} contact_me.js:12
+key is :stopImmediatePropagation contact_me.js:11
+value is :function (){var a=this.originalEvent;this.isImmediatePropagationStopped=ab,a&&a.stopImmediatePropagation&&a.stopImmediatePropagation(),this.stopPropagation()} contact_me.js:12
+

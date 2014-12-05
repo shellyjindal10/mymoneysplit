@@ -1,0 +1,151 @@
+#sign_up_main_div{
+					
+					margin-left: 33%;
+					margin-top: 10%;
+					width: 33%;
+					height: 501px;
+}
+#Money_wise_theme_symbol{
+					
+					width: 36%;
+					height: 217px;
+}
+#introduce_yoursellf_title{
+					
+					margin-top: -33%;
+					margin-left: 41%;
+					height: 36px;
+}
+#my_name_title{
+					margin-left: 41%;
+					height: 36px;
+					margin-top: 2%;
+}
+#image_money_split{
+					width: 110%;
+					height: 245px;
+}
+#introduction_title{
+					color:grey;
+					font-weight: bold;
+					margin-top: 2%;
+}
+#name_title{
+					font-size: 193%;
+					margin-top: -2%;
+}
+input.name-enter{
+					margin-left: 2%;
+					margin-top: 1%;
+					width: 25%;
+					height: 39px;
+					display: block;
+					width: 36%;
+					height: 39px;
+					padding: 6px 12px;
+					font-size: 14px;
+					line-height: 1.42857143;
+					color: #555;
+					background-color: #fff;
+					background-image: none;
+					border: 1px solid #ccc;
+					border-radius: 4px;
+					-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+					box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+					-webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+					-o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+					transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;	
+}
+#first-name-enter{
+					margin-left: 2%;
+					margin-top: 1%;
+					width: 25%;
+					height: 39px;
+					display: block;
+					width: 36%;
+					height: 39px;
+					padding: 6px 12px;
+					font-size: 14px;
+					line-height: 1.42857143;
+					color: #555;
+					background-color: #fff;
+					background-image: none;
+					border: 1px solid #ccc;
+					border-radius: 4px;
+					-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+					box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+					-webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+					-o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+					transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+#last-name-enter{
+					margin-left: 2%;
+					margin-top: 2.5%;
+					width: 25%;
+					height: 39px;
+					display: block;
+					width: 36%;
+					height: 39px;
+					padding: 6px 12px;
+					font-size: 14px;
+					line-height: 1.42857143;
+					color: #555;
+					background-color: #fff;
+					background-image: none;
+					border: 1px solid #ccc;
+					border-radius: 4px;
+					-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+					box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+					-webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+					-o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+					transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+#email-enter{
+					margin-left: 2%;
+margin-top: 0%;
+width: 59%;
+height: 39px;
+}
+#password-enter{
+					margin-left: 2%;
+margin-top: 0%;
+width: 59%;
+height: 39px;
+}
+#reconfirm-password-enter{
+					margin-left: 2%;
+					margin-top: 0%;
+					width: 60%;
+					height: 39px;
+}
+#sign_uo_button{
+					margin-left: 2%;
+					margin-top: 2%;
+}
+
+#email_label{
+					margin-left: 2%;
+					margin-top: 4%;
+}
+#password_label{
+					margin-left: 2%;
+					margin-top: 2%;
+}
+#sign_up_body_hidden{
+	display:none;
+}
+label.error {
+	margin-left: 2%;
+	color: red;
+	font-size: 0.89em;
+}
+
+.nameMainDiv{
+	
+								height: 101px;
+}
+
+.sign_up_div{
+	
+								margin-left: 40%;
+}
