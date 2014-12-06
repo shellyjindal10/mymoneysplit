@@ -194,19 +194,18 @@
 							call_backend('dashboardCalculations.php?action=youOwed','youOwedResult');
 						</script>
 						</p>		       		
-		       </div>
-		      <div class="vertical-line" style="height: 45px;">
+		       		 </div>
+		      <div class="vertical-line" style="height: 45px;"></div>
+		      <div id="youAreOwed">
+			       		<p id="youAreOwedTitle">YOU ARE OWED</p>
+			       		<!--Make an ajax call for the money you are owed -->
+			       		<p id="youAreOwedResult">
+			       			<script type="text/javascript">
+										call_backend('dashboardCalculations.php?action=youAreOwed','youAreOwedResult');
+							</script>
+			       		</p>
 		      </div>
-		       <div id="youAreOwed">
-		       		<p id="youAreOwedTitle">YOU ARE OWED</p>
-		       		<!--Make an ajax call for the money you are owed -->
-		       		<p id="youAreOwedResult">
-		       			<script type="text/javascript">
-									call_backend('dashboardCalculations.php?action=youAreOwed','youAreOwedResult');
-						</script>
-		       		</p>
-		       </div>
-       </div>
+       		</div>
        </div>
        </div>
 
@@ -283,8 +282,5 @@
       		</div>
       	</div>
       </div>
-
-
-
 </body>
 </html>

@@ -8,8 +8,7 @@
     <link type ="text/css" rel="stylesheet" href="../css/Reset-Password-UI.css" />
     <link rel="stylesheet" href="../lib/alertify/alertify.core.css" />
     <link rel="stylesheet" href="../lib/alertify/alertify.default.css" />
-    <script src="../lib/alertify/alertify.js"></script>
-    <script src="../resourses/rootConfig.js"></script>
+    
 </head>
 <script type="text/javascript">
             var count=30;
@@ -39,6 +38,12 @@
     <div class="timer-login-page-redirect">
          <p id="redirect-page">Redirecting to Login Page in <span id="timer"></span>..... </p>
     </div> 
+
+    <!--Alertify.js-->
+    <script src="../lib/alertify/alertify.js"></script>
+    
+    <!--Common Files-->
+    <script src="../resourses/rootConfig.js"></script>
 </body>
 </html>
 

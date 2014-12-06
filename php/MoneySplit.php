@@ -6,21 +6,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-		<script language="Javascript" type="text/javascript" src="../lib/jquery-1.11.1.js"></script>
+
+  		<script language="Javascript" type="text/javascript" src="../lib/jquery-1.11.1.js"></script>
 		<script language="Javascript" type="text/javascript" src="../lib/jquery-1.11.1.min.js"></script>
-		<script src ="../lib/js/bootstrap.js"></script>
+		
 		<link type ="text/css" rel="stylesheet" href="../lib/css/bootstrap.css" />
-		<link rel="stylesheet" type="text/css" href="../css/MoneyWise.css" media="screen" />	
-		<script language="Javascript" type="text/javascript" src="../lib/alertPlugins/jquery.bootstrap-growl.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="../css/MoneyWise.css" media="screen" />
 		<link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css"/>
-  		<script src="//code.jquery.com/jquery-1.10.2.js"></script>
-  		<script src="//code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
-  		<script language="Javascript" type="text/javascript" src="../js/MoneyWisePage.js"></script>
+  		
+  		
   		<link rel="stylesheet" href="../lib/alertify/alertify.core.css" />
 		<link rel="stylesheet" href="../lib/alertify/alertify.default.css" />
-		<script src="../lib/alertify/alertify.js"></script>
-		<script src="../resourses/rootConfig.js"></script>
-		
 		
         <script type="text/javascript">
                 var count = 0;
@@ -37,7 +33,7 @@
 				}
 				function emailVerfication(emailAddress){
 					var pattern = new RegExp(/^((([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.?$/i);
-    			return pattern.test(emailAddress);
+    				return pattern.test(emailAddress);
 				}
 				$(document).ready(function() {
 									console.log('Inside the document.ready');
@@ -306,6 +302,20 @@
       </div>
 
 
+		<!-- jQuery -->
+  		<script src="//code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+
+		<!-- Bootstrap -->
+		<script src ="../lib/js/bootstrap.js"></script>			
+		<script language="Javascript" type="text/javascript" src="../lib/alertPlugins/jquery.bootstrap-growl.min.js"></script>
+
+		<!--alertify.js-->
+		<script src="../lib/alertify/alertify.js"></script>
+
+		<!--basic files-->
+		<script src="../resourses/rootConfig.js"></script>
+		<script language="Javascript" type="text/javascript" src="../js/MoneyWisePage.js"></script>
+		
 
 </body>
 </html>

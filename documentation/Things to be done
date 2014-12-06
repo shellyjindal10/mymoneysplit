@@ -38,67 +38,6 @@ Phone number (650) 314-6400
 Message the business
 Business websitemindsource.com
 
-2: 
+2: header-bg.jpg
 
-
-Idea : - Living with your mates?
-Whether it's bills, takeaway or just daily expenses, WeSplit.it deals with all the hassles & calculations
-while you sit back and relax!
-
-
-PayPal will make the payment faster, safer way to send money, make an online payment, receive money or set up a merchant account.
-
-Inside LOginPage.js LoginPage.js:3
-event is :[object Object] contact_me.js:8
-form is :[object Object] contact_me.js:9
-key is :originalEvent contact_me.js:11
-value is :[object Event] contact_me.js:12
-key is :type contact_me.js:11
-value is :submit contact_me.js:12
-key is :isDefaultPrevented contact_me.js:11
-value is :function bb(){return!1} contact_me.js:12
-key is :timeStamp contact_me.js:11
-value is :1417729790582 contact_me.js:12
-key is :jQuery111109476122052874416 contact_me.js:11
-value is :true contact_me.js:12
-key is :which contact_me.js:11
-value is :undefined contact_me.js:12
-key is :view contact_me.js:11
-value is :undefined contact_me.js:12
-key is :target contact_me.js:11
-value is :[object HTMLFormElement] contact_me.js:12
-key is :shiftKey contact_me.js:11
-value is :undefined contact_me.js:12
-key is :relatedTarget contact_me.js:11
-value is :undefined contact_me.js:12
-key is :metaKey contact_me.js:11
-value is :false contact_me.js:12
-key is :eventPhase contact_me.js:11
-value is :2 contact_me.js:12
-key is :currentTarget contact_me.js:11
-value is :[object HTMLFormElement] contact_me.js:12
-key is :ctrlKey contact_me.js:11
-value is :undefined contact_me.js:12
-key is :cancelable contact_me.js:11
-value is :true contact_me.js:12
-key is :bubbles contact_me.js:11
-value is :true contact_me.js:12
-key is :altKey contact_me.js:11
-value is :undefined contact_me.js:12
-key is :delegateTarget contact_me.js:11
-value is :[object HTMLFormElement] contact_me.js:12
-key is :handleObj contact_me.js:11
-value is :[object Object] contact_me.js:12
-key is :data contact_me.js:11
-value is :null contact_me.js:12
-key is :isPropagationStopped contact_me.js:11
-value is :function bb(){return!1} contact_me.js:12
-key is :isImmediatePropagationStopped contact_me.js:11
-value is :function bb(){return!1} contact_me.js:12
-key is :preventDefault contact_me.js:11
-value is :function (){var a=this.originalEvent;this.isDefaultPrevented=ab,a&&(a.preventDefault?a.preventDefault():a.returnValue=!1)} contact_me.js:12
-key is :stopPropagation contact_me.js:11
-value is :function (){var a=this.originalEvent;this.isPropagationStopped=ab,a&&(a.stopPropagation&&a.stopPropagation(),a.cancelBubble=!0)} contact_me.js:12
-key is :stopImmediatePropagation contact_me.js:11
-value is :function (){var a=this.originalEvent;this.isImmediatePropagationStopped=ab,a&&a.stopImmediatePropagation&&a.stopImmediatePropagation(),this.stopPropagation()} contact_me.js:12
 

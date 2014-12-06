@@ -395,11 +395,13 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>December 2014</h4>
-                                    <h4 class="subheading">Transition to Full Service</h4>
+                                    <h4>2014</h4>
+                                    <h4 class="subheading">Contact Us</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Choose the Friend with the email id , we can also choose multiple friends with comma separted email ids,add description,amount of the bill and receive a cash payment by the friend, a email reminder will also be send to the payee !</p>
+                                    <p class="text-muted">P.O. BOX 94087</p> 
+                                    <p class="text-muted">SUNNYVALE, CA 94087</p>
+                                    <p class="text-muted">MONEYWISEEMAILSENDER@GMAIL.COM</p>
                                 </div>
                             </div>
                         </li>
@@ -764,13 +766,10 @@
 
     <!-- Contact Form JavaScript -->
     <script src="../lib/startbootstrap-agency-1.0.0/js/jqBootstrapValidation.js"></script>
-    <script src="../lib/startbootstrap-agency-1.0.0/js/contactMe.js"></script>
-    <!--<script src="../lib/startbootstrap-agency-1.0.0/js/contact_me.js"></script>-->
-    
+    <script src="../lib/startbootstrap-agency-1.0.0/js/contactMe.js"></script>    
 
     <!-- Custom Theme JavaScript -->
     <script src="../lib/startbootstrap-agency-1.0.0/js/agency.js"></script>
 
 </body>
-
 </html>
