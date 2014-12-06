@@ -11,7 +11,7 @@ define('DB_PASSWORD','shellybelly10');
 define('DB_HOST','localhost');
 
 //BASE FILE NAME
-define('BASE_PATH','http://localhost/MoneySplit/');
+define('BASE_PATH','http://localhost/mymoneysplit/');
 //define('BASE_PATH','.');
 
 //FACEBOOK RELATED SETTNGS 
