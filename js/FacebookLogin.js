@@ -102,7 +102,7 @@
 										        {
 										        // Reload the page
 										        console.log("session_set");
-										        window.location.replace("http://localhost/MoneySplit/php/UserVerification.php?type=FB");
+										        window.location.replace("http://mymoneysplit.com/mymoneysplit/php/UserVerification.php?type=FB");
 										        }
 										      }
 										    xmlhttp.open("GET","set_session.php?"+sessionName+"=" + sessionValue,true);
