@@ -457,7 +457,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-sm-4">
+                <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="../lib/startbootstrap-agency-1.0.0/img/team/2.jpg" class="img-responsive img-circle" alt="">
                         <h4>Sudip Gautam</h4>
@@ -471,7 +471,7 @@
                             </li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
                 
             </div>
             <div class="row">
